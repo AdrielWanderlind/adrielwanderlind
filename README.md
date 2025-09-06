@@ -1,6 +1,6 @@
 Olá! Me chamo Adriel
 
-- Atualmente cursando ADS
+- Atualmente cursando Análise e Desenvolvimento de Sistemas
 - Futuro desenvolvedor WEB
 
 <p align="center">
