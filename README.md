@@ -5,11 +5,9 @@ Olá! Me chamo Adriel
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adrielwanderlind&show_icons=true&theme=transparent" width="400">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielWanderlind&layout-compact&langs_count-16&theme-transparent"/>
 </p>
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielWanderlind&layout-compact&langs_count-16&theme-transparent"/>
-</div>
 
 
 <a href="https://instagram.com/wandadriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
