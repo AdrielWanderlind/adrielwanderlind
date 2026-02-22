@@ -17,5 +17,6 @@ Olá! Me chamo Adriel
 <div style="display: inline_block">
   <img align="center" alt="Adriel=HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Adriel-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
+  <img align="center" alt="Adriel-C" height="40" width="40" src="https://img.icons8.com/color/600/c-programming.png">    
 </div>
 
