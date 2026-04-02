@@ -18,6 +18,6 @@ Olá! Me chamo Adriel
   <img align="center" alt="Adriel=HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Adriel-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
   <img align="center" alt="Adriel-C" height="40" width="40" src="https://img.icons8.com/color/600/c-programming.png"> 
-  <img align="center" alt="Adriel-JAVASCRIPT" height="40" width="40" src="https://skillforge.com/wp-content/uploads/2020/10/javascript.png"> 
+  <img align="center" alt="Adriel-JAVASCRIPT" height="40" width="40" src="blob:https://imgur.com/38c6ec19-9c11-4204-87f4-c559882c25ec"> 
 </div>
 
