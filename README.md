@@ -5,7 +5,7 @@ Olá! Me chamo Adriel
 
 <p align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=adrielwanderlind&show_icons=true&theme=transparent"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielWanderlind&layout=compact&langs_count=16&theme=transparent"/>
+  <img height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielWanderlind&layout=compact&langs_count=16&theme=transparent"/>
 </p>
 
 
