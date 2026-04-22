@@ -4,8 +4,8 @@ Olá! Me chamo Adriel
 - Futuro desenvolvedor WEB
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrielwanderlind&show_icons=true&theme=transparent" width="400">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielWanderlind&layout-compact&langs_count=16&theme-transparent"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=adrielwanderlind&show_icons=true&theme=transparent"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielWanderlind&layout=compact&langs_count=16&theme=transparent"/>
 </p>
 
 
