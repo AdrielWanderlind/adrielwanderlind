@@ -1,7 +1,6 @@
 Olá! Me chamo Adriel
 
-- Atualmente cursando Análise e Desenvolvimento de Sistemas
-- Futuro desenvolvedor WEB
+- Estudante em Análise e Desenvolvimento de Sistemas | C | CSS | JS
 
 <p align="center">
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=adrielwanderlind&show_icons=true&theme=transparent"/>
