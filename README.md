@@ -20,5 +20,5 @@ Olá! Me chamo Adriel
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
   <img height="40" src="https://img.icons8.com/color/600/c-programming.png"> 
   <img height="40" src="https://i.imgur.com/cGOxnzm.png"> 
-  <img height="40" src="[[https://i.imgur.com/cGOxnzm.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail)](https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png)"> 
+  <img height="40" src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png"> 
 </p>
