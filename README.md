@@ -1,8 +1,9 @@
+<div align="center">
 Olá! Me chamo Adriel
 
 🖥️ Estudante em Análise e Desenvolvimento de Sistemas <br>
 📍 Maringá - PR
-
+</div>
 
 <hr>
 🤖Linguagens e tecnologias
