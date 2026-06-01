@@ -9,7 +9,7 @@ Olá! Me chamo Adriel
 </p>
 <hr>
 🤖Linguagens e tecnologias
-<p align="left">
+<p align="center">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
   <img height="40" src="https://img.icons8.com/color/600/c-programming.png"> 
