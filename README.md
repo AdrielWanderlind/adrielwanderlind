@@ -7,7 +7,7 @@ Olá! Me chamo Adriel
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=adrielwanderlind&show_icons=true&theme=transparent"/>
   <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielWanderlind&layout=compact&langs_count=16&theme=transparent"/>
 </p>
-
+<hr>
 🤖Linguagens e tecnologias
 <p align="left">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
