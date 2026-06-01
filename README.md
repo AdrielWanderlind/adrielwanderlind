@@ -1,6 +1,6 @@
 <div align="center">
-Olá! Me chamo Adriel
-
+Olá! Me chamo Adriel.
+<br>
 🖥️ Estudante em Análise e Desenvolvimento de Sistemas <br>
 📍 Maringá - PR
 </div>
