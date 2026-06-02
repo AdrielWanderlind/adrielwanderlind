@@ -14,7 +14,7 @@ Tenho facilidade em aprender novas tecnologias, boa comunicação interpessoal e
 🤖Linguagens e tecnologias
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td align="center">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
