@@ -1,7 +1,10 @@
 <div align="center">
 Olá! Me chamo Adriel.
 <br>
-🖥️ Estudante em Análise e Desenvolvimento de Sistemas <br>
+🖥️ Estudante em Análise e Desenvolvimento de Sistemas
+<br>
+Tenho facilidade em aprender novas tecnologias, boa comunicação interpessoal e experiência profissional com atendimento e resolução de problemas, habilidades que contribuem diretamente para o trabalho em equipe na área de tecnologia.
+<br>
 📍 Maringá - PR
 </div>
 
