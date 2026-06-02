@@ -14,14 +14,17 @@ Tenho facilidade em aprender novas tecnologias, boa comunicação interpessoal e
 🤖Linguagens e tecnologias
 </div>
 
-<p align="center">
+<table>
+<tr>
+<td align="center">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
   <img height="40" src="https://img.icons8.com/color/600/c-programming.png"> 
   <img height="40" src="https://i.imgur.com/cGOxnzm.png"> 
   <img height="40" src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png"> 
-</p>
-
+</td>
+</tr>
+</table>
 
 <hr>
 
