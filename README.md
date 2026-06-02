@@ -11,7 +11,7 @@ Olá! Me chamo Adriel.
 🤖Linguagens e tecnologias
 </div>
 
-<td valign="top" width="25%">
+<table>
 <p align="center">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
@@ -19,7 +19,7 @@ Olá! Me chamo Adriel.
   <img height="40" src="https://i.imgur.com/cGOxnzm.png"> 
   <img height="40" src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png"> 
 </p>
-</td>
+</table>
 
 <hr>
 
