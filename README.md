@@ -22,7 +22,7 @@ Tenho facilidade em aprender novas tecnologias, boa comunicação interpessoal e
   <img height="40" src="https://img.icons8.com/color/600/c-programming.png"> 
   <img height="40" src="https://i.imgur.com/cGOxnzm.png"> 
   <img height="40" src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png"> 
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png"> 
+  <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvygkXP-NDi1MJ-wTvQVnJokpXQgwPFmZ4yJsz3tq_sA&s=10"> 
 </td>
 </tr>
 </table>
